@@ -7,5 +7,4 @@ https://wireframe.cc/pXEfA8
 
 /var/www/html/site_mariage/usecase site mariage.mdj
 
-https://trello.com/b/CnQshBUm/site-mariage
 
