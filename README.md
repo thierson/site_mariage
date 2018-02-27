@@ -1,10 +1,16 @@
-# site_mariage
-https://slides.com/thierrymbuyi/deck-2/live#/1
+# Projet Chef d'oeuvre
 
-https://trello.com/b/CnQshBUm/site-mariage
+# Présentation de mon projet: Site de Mariage
 
-https://wireframe.cc/pXEfA8
+Dans le cadre de ma formation, je suis entrain de réaliser mon premier site en php natif.
 
-/var/www/html/site_mariage/usecase site mariage.mdj
+
+Lien slide du site https://slides.com/thierrymbuyi/deck-2/live#/1
+
+Lien trello https://trello.com/b/CnQshBUm/site-mariage
+
+Lien Maquette du site https://wireframe.cc/pXEfA8
+
+Mon UseCase diagramme /var/www/html/site_mariage/usecase site mariage.mdj
 
 
